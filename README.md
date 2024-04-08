@@ -5,14 +5,14 @@
    
 2. 创建provider.tsx文件，并在其中完成相关代码配置
 
-   ![步骤1](../../public/image1.png)
+   ![步骤1](./public/image1.png)
    
 3. 引入provider组件，并用其包裹要使用链接钱包功能的页面
 
-   ![步骤2](../../public/image2.png)
+   ![步骤2](./public/image2.png)
 
 4. 导入ConnectButton，并使用
 
-   ![步骤3](../../public/image3.png)
+   ![步骤3](./public/image3.png)
 
-   ![步骤4](../../public/image4.png)
+   ![步骤4](./public/image4.png)
